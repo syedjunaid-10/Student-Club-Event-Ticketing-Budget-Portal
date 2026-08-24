@@ -54,7 +54,7 @@ Officer, or Dean) rejects the proposal.
 
 1. `usecase_diagram.pdf` — hand-authored SVG (see `usecase_diagram.svg`),
    converted with `cairosvg`.
-2. `usecase_diagram_plantuml.pdf` — equivalent diagram written in PlantUML
+2. `usecase_diagram.pdf` — equivalent diagram written in PlantUML
    (see `usecase_diagram.puml`), rendered via PlantText/PlantUML and exported
    to PDF.
 
