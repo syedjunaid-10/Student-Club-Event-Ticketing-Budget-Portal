@@ -1,4 +1,4 @@
-# Lab 1 — Requirements Engineering & UML Use-Case Modelling
+Student Club Event Ticketing & Budget Portal
 
 **Problem Statement #10 — Student Club Event Ticketing & Budget Portal**
 **Student:** Syed Junaid Ahmed
